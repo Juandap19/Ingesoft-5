@@ -1,6 +1,3 @@
-Aquí tienes una versión mejorada y más detallada de tu README, con explicaciones más claras y organizadas para cada paso:
-
----
 
 # Instrucciones para crear una VM y correr Mario Bros en Docker
 
@@ -130,3 +127,7 @@ ansible-playbook -i hosts.ini playbooks/run_container.yml
 ---
 
 ¡Con esto, tu contenedor Docker con Mario Bros estará en funcionamiento en la VM!
+
+http://213.199.130.104:8787/
+
+![image](https://github.com/user-attachments/assets/78c1c3fc-a87d-4488-917f-cf0806f18672)
